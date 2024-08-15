@@ -235,8 +235,8 @@
         },
         {
             "td_1": "fa-solid fa-tv",
-            "td_2": "<a href=\"\" class=\"blue_shade_nav\"CSS Selectors</a>",
-            "td_3": "<a href=\"\" class=\"blue_shade_nav\"Preview</a>",
+            "td_2": "<a href=\"\" class=\"blue_shade_nav\">CSS Selectors</a>",
+            "td_3": "<a href=\"\" class=\"blue_shade_nav\">Preview</a>",
             "td_4": "22:56"
         },
         {
@@ -383,8 +383,8 @@
         "data":[
             {
                 "td_1": "fa-solid fa-tv",
-                "td_2": "<a href=\"\" class=\"blue_shade_nav\"Display:Flex</a>",
-                "td_3": "<a href=\"\" class=\"blue_shade_nav\"Preview</a>",
+                "td_2": "<a href=\"\" class=\"blue_shade_nav\">Display:Flex</a>",
+                "td_3": "<a href=\"\" class=\"blue_shade_nav\">Preview</a>",
                 "td_4": "14:21"
             },
             {
