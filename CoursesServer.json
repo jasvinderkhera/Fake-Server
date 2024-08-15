@@ -55,7 +55,9 @@
         "td_3": "",
         "td_4": "02:23"
         }
-    ]
+    ],
+    "lectures":"9 lectures",
+    "duration":"37min"
 },
     {"title":"Introduction to HTML",
         "data":[
