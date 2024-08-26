@@ -1,0 +1,163 @@
+[
+    {
+        "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/828/srp/desktop/1694515761NDSC_4298.JPG.jpeg",
+        "flat_area": "FlatMate VasantKunj",
+        "flat_address":"Kishangarh,Near Fortis Hospital,New Delhi",
+        "facilities": [
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Internet.png",
+                "facility_name": "Internet"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Water.png",
+                "facility_name": "Water"
+            }
+        ],
+        "rent": "25,000"
+    },
+    {
+        "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/1098/srp/desktop/1721146994NDSC09294.jpg.jpeg",
+        "flat_area": "FlatMate Cosmos",
+        "flat_address":"Opposite To Palazzo Janakpuri A-2. Delhi",
+        "facilities": [
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Internet.png",
+                "facility_name": "Internet"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Water.png",
+                "facility_name": "Water"
+            }
+        ],
+        "rent": "10,000"
+    },
+    {
+        "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/1072/srp/desktop/1702451671NIMG_0084%20%281%29.jpg.jpeg",
+        "flat_area": "FlatMate Kailasha",
+        "flat_address":"Kishangarh, New Delhi",
+        "facilities": [
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Internet.png",
+                "facility_name": "Internet"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Water.png",
+                "facility_name": "Water"
+            }
+        ],
+        "rent": "40,000"
+    },
+    {
+        "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/1072/srp/desktop/1702451671NIMG_0084%20%281%29.jpg.jpeg",
+        "flat_area": "FlatMate Kailasha",
+        "flat_address":"Kishangarh, New Delhi",
+        "facilities": [
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Internet.png",
+                "facility_name": "Internet"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Water.png",
+                "facility_name": "Water"
+            }
+        ],
+        "rent": "40,000"
+    },
+    {
+        "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/1069/srp/desktop/1695979434NDSC_4782.jpg.jpeg",
+        "flat_area": "FlatMate Dolce",
+        "flat_address":"DWARKA SECTOR-3, New Delhi",
+        "facilities": [
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Food.png",
+                "facility_name": "Food"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Internet.png",
+                "facility_name": "Internet"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Water.png",
+                "facility_name": "Water"
+            }
+        ],
+        "rent": "8,000"
+    },
+    {
+        "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/827/srp/desktop/1694588746N2%20%287%29.jpg.jpeg",
+        "flat_area": "FlatMate Dwarka",
+        "flat_address":"RAMPHAL CHOWK, DWARKA",
+        "facilities": [
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Power%20backup.png",
+                "facility_name": "Power Backup"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Internet.png",
+                "facility_name": "Internet"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Water.png",
+                "facility_name": "Water"
+            }
+        ],
+        "rent": "8,000"
+    },
+    {
+        "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/837/srp/desktop/1694588519N8%20%281%29.jpg.jpeg",
+        "flat_area": "FlatMate Ignou",
+        "flat_address":"Ignou Road",
+        "facilities": [
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Power%20backup.png",
+                "facility_name": "Power Backup"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Internet.png",
+                "facility_name": "Internet"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Water.png",
+                "facility_name": "Water"
+            }
+        ],
+        "rent": "14,000"
+    },
+    {
+        "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/786/srp/desktop/1657791863Nw.jpeg",
+        "flat_area": "FlatMate Kalkaji",
+        "flat_address":"Shyam Sunder Malhotra Marg,...",
+        "facilities": [
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Clean.png",
+                "facility_name": "Daily Cleaning"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Internet.png",
+                "facility_name": "Internet"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Water.png",
+                "facility_name": "Water"
+            }
+        ],
+        "rent": "17,000"
+    },
+    {
+        "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/1040/srp/desktop/1694500763NDSC_4562.JPG.jpeg",
+        "flat_area": "FlatMate Wave",
+        "flat_address":"Sector-7, Near Ramphal Chowk",
+        "facilities": [
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Internet.png",
+                "facility_name": "Internet"
+            },
+            {
+                "image": "https://hw-prod-static-assets.s3.ap-south-1.amazonaws.com/amenities/Water.png",
+                "facility_name": "Water"
+            }
+        ],
+        "rent": "11,000"
+    }
+
+]
