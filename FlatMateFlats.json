@@ -13,7 +13,7 @@
                 "facility_name": "Water"
             }
         ],
-        "rent": "25000"
+        "rent": 25000
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/1098/srp/desktop/1721146994NDSC09294.jpg.jpeg",
@@ -29,7 +29,7 @@
                 "facility_name": "Water"
             }
         ],
-        "rent": "10000"
+        "rent": 10000
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/1072/srp/desktop/1702451671NIMG_0084%20%281%29.jpg.jpeg",
@@ -45,7 +45,7 @@
                 "facility_name": "Water"
             }
         ],
-        "rent": "40000"
+        "rent": 40000
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/813/srp/desktop/1657791956Ne.jpeg",
@@ -65,7 +65,7 @@
                 "facility_name": "Water"
             }
         ],
-        "rent": "40000"
+        "rent": 40000
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/1069/srp/desktop/1695979434NDSC_4782.jpg.jpeg",
@@ -85,7 +85,7 @@
                 "facility_name": "Water"
             }
         ],
-        "rent": "8000"
+        "rent": 8000
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/827/srp/desktop/1694588746N2%20%287%29.jpg.jpeg",
@@ -105,7 +105,7 @@
                 "facility_name": "Water"
             }
         ],
-        "rent": "8000"
+        "rent": 8000
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/837/srp/desktop/1694588519N8%20%281%29.jpg.jpeg",
@@ -125,7 +125,7 @@
                 "facility_name": "Water"
             }
         ],
-        "rent": "14000"
+        "rent": 14000
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/786/srp/desktop/1657791863Nw.jpeg",
@@ -145,7 +145,7 @@
                 "facility_name": "Water"
             }
         ],
-        "rent": "17000"
+        "rent": 17000
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/1040/srp/desktop/1694500763NDSC_4562.JPG.jpeg",
@@ -161,7 +161,7 @@
                 "facility_name": "Water"
             }
         ],
-        "rent": "11000"
+        "rent": 11000
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/1015/srp/desktop/1677574417N_MG_0021.JPG.jpeg",
@@ -181,7 +181,7 @@
                 "facility_name": "Power Backup"
             }
         ],
-        "rent": "9000"
+        "rent": 9000
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/1074/srp/desktop/1720587476Nimage_50428417.jpg.jpeg",
@@ -202,7 +202,7 @@
             }
             
         ],
-        "rent": "10000"
+        "rent": 10000
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/808/srp/desktop/1694588247N1%20%286%29.jpg.jpeg",
@@ -223,7 +223,7 @@
             }
             
         ],
-        "rent": "10000"
+        "rent": 10000
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/1009/srp/desktop/1694588932N3%20%288%29.jpg.jpeg",
@@ -240,7 +240,7 @@
             }
             
         ],
-        "rent": "8500"
+        "rent": 8500
     },
     {
         "url": "https://hw-production-compressed-image.s3.ap-south-1.amazonaws.com/property/711/srp/desktop/1579254105Nwhwrh.jpeg",
@@ -261,7 +261,7 @@
             }
             
         ],
-        "rent": "15000"
+        "rent": 15000
     }
 
 ]
