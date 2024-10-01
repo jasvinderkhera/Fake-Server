@@ -274,246 +274,243 @@
       ],
       "price": 500
     },
-    [
-      {
-        "id": 2,
-        "name": "Adv. Priya Singh",
-        "ratings": [
-          {
-              "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
-          }
-        ],
-        "imgSrc": "https://drive.google.com/file/d/10rPLf0Y2zwEypO7Po6YJgOzlyPrBKZSU/view?usp=sharing",
-        "exp": "7+ Years of Experience",
-        "tags": [
-          {
-            "t1": "Criminal Law",
-            "t2": "Civil Litigation",
-            "t3": "Intellectual Property",
-            "t4": "Family Law",
-            "t5": "Real Estate Law"
-          }
-        ],
-        "location": [
-          {
-            "chamber": "Chamber 15",
-            "court": "Patiala House Court",
-            "area": "Patiala",
-            "district": "New Delhi",
-            "city": "Delhi"
-          }
-        ],
-        "price": 1600
-      },
-      {
-        "id": 3,
-        "name": "Adv. Ramesh Verma",
-        "ratings": [
-          {
-            "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+    {
+      "id": 2,
+      "name": "Adv. Priya Singh",
+      "ratings": [
+        {
+          "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
           "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
           "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
           "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
           "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
-          }
-        ],
-        "imgSrc": "https://drive.google.com/file/d/1L_kI-BGa40u_4hNt3PzN5NErDgxXuxfr/view?usp=sharing",
-        "exp": "10+ Years of Experience",
-        "tags": [
-          {
-            "t1": "Tax Law",
-            "t2": "Corporate Law",
-            "t3": "Contract Law",
-            "t4": "Mediation",
-            "t5": "Employment Law"
-          }
-        ],
-        "location": [
-          {
-            "chamber": "Chamber 20",
-            "court": "Dwarka Court",
-            "area": "Dwarka",
-            "district": "South West Delhi",
-            "city": "Delhi"
-          }
-        ],
-        "price": 800
-      },
-      {
-        "id": 4,
-        "name": "Adv. Neha Gupta",
-        "ratings": [
-          {
-           "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
-          }
-        ],
-        "imgSrc": "https://drive.google.com/file/d/1sdHrk_fOlAAHTndB6aj0yhaU5nZLZ-pA/view?usp=sharing",
-        "exp": "7+ Years of Experience",
-        "tags": [
-          {
-            "t1": "Property Law",
-            "t2": "Consumer Rights",
-            "t3": "Family Disputes",
-            "t4": "Arbitration",
-            "t5": "Immigration Law"
-          }
-        ],
-        "location": [
-          {
-            "chamber": "Chamber 30",
-            "court": "Saket Court",
-            "area": "Saket",
-            "district": "South Delhi",
-            "city": "Delhi"
-          }
-        ],
-        "price": 700
-      },
-      {
-        "id": 5,
-        "name": "Adv. Suresh Kumar",
-        "ratings": [
-          {
-            "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
-          }
-        ],
-        "imgSrc": "https://drive.google.com/file/d/1aSYtzpdiDECMfzRe3kolL-_nBtJLHHrD/view?usp=sharing",
-        "exp": "6+ Years of Experience",
-        "tags": [
-          {
-            "t1": "Banking Law",
-            "t2": "Commercial Law",
-            "t3": "Consumer Protection",
-            "t4": "Family Law",
-            "t5": "Negotiation"
-          }
-        ],
-        "location": [
-          {
-            "chamber": "Chamber 5",
-            "court": "Tis Hazari Court",
-            "area": "Tis Hazari",
-            "district": "Central Delhi",
-            "city": "Delhi"
-          }
-        ],
-        "price": 650
-      },
-      {
-        "id": 6,
-        "name": "Adv. Anjali Mehta",
-        "ratings": [
-          {
-            "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
-          }
-        ],
-        "imgSrc": "https://drive.google.com/file/d/16_0YqQZWhfI9gNMyywFxxtcdFgI6OCGZ/view?usp=sharing",
-        "exp": "9+ Years of Experience",
-        "tags": [
-          {
-            "t1": "Environmental Law",
-            "t2": "Corporate Compliance",
-            "t3": "Human Rights Law",
-            "t4": "Family Law",
-            "t5": "Public Interest Law"
-          }
-        ],
-        "location": [
-          {
-            "chamber": "Chamber 22",
-            "court": "Karkardooma Court",
-            "area": "Karkardooma",
-            "district": "Vishwash Nagar",
-            "city": "Delhi"
-          }
-        ],
-        "price": 750
-      },
-      {
-        "id": 7,
-        "name": "Adv. Vikram Choudhary",
-        "ratings": [
-          {
-            "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
-          }
-        ],
-        "imgSrc": "https://drive.google.com/file/d/1EpzUfwkgwvz92kgYpcwyoz-Qr2YmWvKn/view?usp=sharing",
-        "exp": "4+ Years of Experience",
-        "tags": [
-          {
-            "t1": "Real Estate",
-            "t2": "Commercial Contracts",
-            "t3": "Dispute Resolution",
-            "t4": "Employment Disputes",
-            "t5": "Mediation"
-          }
-        ],
-        "location": [
-          {
-            "chamber": "Chamber 10",
-            "court": "Rohini Court",
-            "area": "Rohini",
-            "district": "North West Delhi",
-            "city": "Delhi"
-          }
-        ],
-        "price": 550
-      },
-      {
-        "id": 8,
-        "name": "Adv. Sneha Yadav",
-        "ratings": [
-          {
-            "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
-              "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
-          }
-        ],
-        "imgSrc": "https://drive.google.com/file/d/1jDt_Wtwk9yK-4Raxdx-HrrN810AppZkX/view?usp=sharing",
-        "exp": "3+ Years of Experience",
-        "tags": [
-          {
-            "t1": "Family Law",
-            "t2": "Consumer Disputes",
-            "t3": "Child Custody",
-            "t4": "Mediation",
-            "t5": "Civil Rights"
-          }
-        ],
-        "location": [
-          {
-            "chamber": "Chamber 8",
-            "court": "Karkardooma Court",
-            "area": "Karkardooma",
-            "district": "Vishwash Nagar",
-            "city": "Delhi"
-          }
-        ],
-        "price": 500
-      }
-    ]
-    
+        }
+      ],
+      "imgSrc": "https://drive.google.com/file/d/10rPLf0Y2zwEypO7Po6YJgOzlyPrBKZSU/view?usp=sharing",
+      "exp": "7+ Years of Experience",
+      "tags": [
+        {
+          "t1": "Criminal Law",
+          "t2": "Civil Litigation",
+          "t3": "Intellectual Property",
+          "t4": "Family Law",
+          "t5": "Real Estate Law"
+        }
+      ],
+      "location": [
+        {
+          "chamber": "Chamber 15",
+          "court": "Patiala House Court",
+          "area": "Patiala",
+          "district": "New Delhi",
+          "city": "Delhi"
+        }
+      ],
+      "price": 1600
+    },
+    {
+      "id": 3,
+      "name": "Adv. Ramesh Verma",
+      "ratings": [
+        {
+          "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+        }
+      ],
+      "imgSrc": "https://drive.google.com/file/d/1L_kI-BGa40u_4hNt3PzN5NErDgxXuxfr/view?usp=sharing",
+      "exp": "10+ Years of Experience",
+      "tags": [
+        {
+          "t1": "Tax Law",
+          "t2": "Corporate Law",
+          "t3": "Contract Law",
+          "t4": "Mediation",
+          "t5": "Employment Law"
+        }
+      ],
+      "location": [
+        {
+          "chamber": "Chamber 20",
+          "court": "Dwarka Court",
+          "area": "Dwarka",
+          "district": "South West Delhi",
+          "city": "Delhi"
+        }
+      ],
+      "price": 800
+    },
+    {
+      "id": 4,
+      "name": "Adv. Neha Gupta",
+      "ratings": [
+        {
+          "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+        }
+      ],
+      "imgSrc": "https://drive.google.com/file/d/1sdHrk_fOlAAHTndB6aj0yhaU5nZLZ-pA/view?usp=sharing",
+      "exp": "7+ Years of Experience",
+      "tags": [
+        {
+          "t1": "Property Law",
+          "t2": "Consumer Rights",
+          "t3": "Family Disputes",
+          "t4": "Arbitration",
+          "t5": "Immigration Law"
+        }
+      ],
+      "location": [
+        {
+          "chamber": "Chamber 30",
+          "court": "Saket Court",
+          "area": "Saket",
+          "district": "South Delhi",
+          "city": "Delhi"
+        }
+      ],
+      "price": 700
+    },
+    {
+      "id": 5,
+      "name": "Adv. Suresh Kumar",
+      "ratings": [
+        {
+          "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+        }
+      ],
+      "imgSrc": "https://drive.google.com/file/d/1aSYtzpdiDECMfzRe3kolL-_nBtJLHHrD/view?usp=sharing",
+      "exp": "6+ Years of Experience",
+      "tags": [
+        {
+          "t1": "Banking Law",
+          "t2": "Commercial Law",
+          "t3": "Consumer Protection",
+          "t4": "Family Law",
+          "t5": "Negotiation"
+        }
+      ],
+      "location": [
+        {
+          "chamber": "Chamber 5",
+          "court": "Tis Hazari Court",
+          "area": "Tis Hazari",
+          "district": "Central Delhi",
+          "city": "Delhi"
+        }
+      ],
+      "price": 650
+    },
+    {
+      "id": 6,
+      "name": "Adv. Anjali Mehta",
+      "ratings": [
+        {
+          "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+        }
+      ],
+      "imgSrc": "https://drive.google.com/file/d/16_0YqQZWhfI9gNMyywFxxtcdFgI6OCGZ/view?usp=sharing",
+      "exp": "9+ Years of Experience",
+      "tags": [
+        {
+          "t1": "Environmental Law",
+          "t2": "Corporate Compliance",
+          "t3": "Human Rights Law",
+          "t4": "Family Law",
+          "t5": "Public Interest Law"
+        }
+      ],
+      "location": [
+        {
+          "chamber": "Chamber 22",
+          "court": "Karkardooma Court",
+          "area": "Karkardooma",
+          "district": "Vishwash Nagar",
+          "city": "Delhi"
+        }
+      ],
+      "price": 750
+    },
+    {
+      "id": 7,
+      "name": "Adv. Vikram Choudhary",
+      "ratings": [
+        {
+          "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+        }
+      ],
+      "imgSrc": "https://drive.google.com/file/d/1EpzUfwkgwvz92kgYpcwyoz-Qr2YmWvKn/view?usp=sharing",
+      "exp": "4+ Years of Experience",
+      "tags": [
+        {
+          "t1": "Real Estate",
+          "t2": "Commercial Contracts",
+          "t3": "Dispute Resolution",
+          "t4": "Employment Disputes",
+          "t5": "Mediation"
+        }
+      ],
+      "location": [
+        {
+          "chamber": "Chamber 10",
+          "court": "Rohini Court",
+          "area": "Rohini",
+          "district": "North West Delhi",
+          "city": "Delhi"
+        }
+      ],
+      "price": 550
+    },
+    {
+      "id": 8,
+      "name": "Adv. Sneha Yadav",
+      "ratings": [
+        {
+          "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+        }
+      ],
+      "imgSrc": "https://drive.google.com/file/d/1jDt_Wtwk9yK-4Raxdx-HrrN810AppZkX/view?usp=sharing",
+      "exp": "3+ Years of Experience",
+      "tags": [
+        {
+          "t1": "Family Law",
+          "t2": "Consumer Disputes",
+          "t3": "Child Custody",
+          "t4": "Mediation",
+          "t5": "Civil Rights"
+        }
+      ],
+      "location": [
+        {
+          "chamber": "Chamber 8",
+          "court": "Karkardooma Court",
+          "area": "Karkardooma",
+          "district": "Vishwash Nagar",
+          "city": "Delhi"
+        }
+      ],
+      "price": 500
+    }
   ]
 }
