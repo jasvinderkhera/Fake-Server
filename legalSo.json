@@ -1,242 +1,519 @@
 {
-    "lawKits": [
-      {
-        "id": 1,
-        "title": "Sale Deed",
-        "price": 4600,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/9168/9168993.png"
-      },
+  "lawKits": [
+    {
+      "id": 1,
+      "title": "Sale Deed",
+      "price": 4600,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/9168/9168993.png"
+    },
+    {
+      "id": 2,
+      "title": "Lease Agreement",
+      "price": 2500,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/12727/12727980.png"
+    },
+    {
+      "id": 3,
+      "title": "Power of Attorney",
+      "price": 3200,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/2672/2672267.png"
+    },
+    {
+      "id": 4,
+      "title": "Gift Deed",
+      "price": 4800,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/2506/2506937.png"
+    },
+    {
+      "id": 5,
+      "title": "Will & Testament",
+      "price": 5000,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/2782/2782651.png"
+    },
+    {
+      "id": 6,
+      "title": "Partnership Agreement",
+      "price": 3000,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/2618/2618576.png"
+    },
+    {
+      "id": 7,
+      "title": "Employment Contract",
+      "price": 2800,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/5545/5545080.png"
+    },
+    {
+      "id": 8,
+      "title": "Non-Disclosure Agreement",
+      "price": 1500,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/14098/14098378.png"
+    },
+    {
+      "id": 9,
+      "title": "Vendor Agreement",
+      "price": 3600,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/12371/12371498.png"
+    },
+    {
+      "id": 10,
+      "title": "Service Agreement",
+      "price": 4200,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/10210/10210587.png"
+    },
+    {
+      "id": 11,
+      "title": "Property Agreement",
+      "price": 6000,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/3466/3466938.png"
+    },
+    {
+      "id": 12,
+      "title": "Business Transfer Agreement",
+      "price": 7500,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/12009/12009951.png"
+    },
+    {
+      "id": 13,
+      "title": "Loan Agreement",
+      "price": 3500,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/12727/12727980.png"
+    },
+    {
+      "id": 14,
+      "title": "Shareholders Agreement",
+      "price": 5500,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/9568/9568824.png"
+    },
+    {
+      "id": 15,
+      "title": "Franchise Agreement",
+      "price": 6800,
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/9568/9568824.png"
+    }
+  ],
+
+  "blog": [
+    {
+      "id": 1,
+      "title": "Significant Amendments Under The Foreign Exchange (Compounding Proceedings), Rules",
+      "imgSrc": "https://www.livelaw.in/h-upload/2024/09/26/500x300_562819-foreign-exchange-management-act-fema.webp",
+      "author": "Manassvi Sharrma & Sahil Singh",
+      "date": "27 Sept 2024 11:53 AM",
+      "p1": "Under the Foreign Exchange Management Act (FEMA), 1999, when a person using foreign exchange does not comply with the provisions of “FEMA” he commits a contravention. Contravention means a non-compliance of provisions of the act and it includes rules/ regulations/ notification/ orders/ directions/ circulars issued under the act.",
+      "p2": "The term compounding is a voluntary act through which a person admits to such contravention and seeks redressal for the same. The Reserve Bank is empowered to compound any contravention as defined under section 13 of FEMA, 1999 except the contravention under section 3(a).[2] Therefore, under this process a person committing a contravention will file an application to the compounding authority (defined under rule 3 of the FEMA rules) voluntarily accepting the contravention and to be excused , the contravenor must pay the penalty assessed by the RBI and will be given the opportunity of personal hearing.[3] The crime must be compounded within 180 days of the application."
+    },
+    {
+      "id": 2,
+      "title": "Updates on Data Protection Regulations in India",
+      "imgSrc": "https://vidhilegalpolicy.in/wp-content/uploads/2021/12/20181123-shutterstock_619615334.jpg",
+      "author": "Priya Kumar & Amit Singh",
+      "date": "28 Sept 2024 10:30 AM",
+      "p1": "India is in the process of strengthening its data protection framework, focusing on the rights of individuals regarding their personal data. The recent developments aim to align with global standards, particularly those established by the General Data Protection Regulation (GDPR) in the European Union. These regulations emphasize the necessity of obtaining explicit consent from individuals before any data processing takes place. The legislation also seeks to introduce stringent penalties for breaches, ensuring that organizations prioritize the security and privacy of user data. Furthermore, the updates promote transparency by mandating organizations to clearly inform users about how their data is collected, used, and shared, empowering individuals to make informed choices about their personal information.",
+      "p2": "In addition to enhancing individual rights, the proposed legislation also outlines the responsibilities of organizations, particularly in terms of data handling and storage. Companies will be required to implement robust data protection measures, conduct regular audits, and appoint dedicated data protection officers to oversee compliance. The government aims to foster a culture of accountability and responsibility within organizations, thereby minimizing the risk of data breaches and misuse of information. Moreover, the legislation includes provisions for the establishment of a regulatory authority to oversee the implementation of these laws, investigate complaints, and ensure compliance. This regulatory body will play a crucial role in promoting awareness about data protection rights and guiding organizations in adhering to the new regulations."
+    },
+    {
+      "id": 3,
+      "title": "Recent Developments in Intellectual Property Law",
+      "imgSrc": "https://d2dzik4ii1e1u6.cloudfront.net/images/lexology/static/a85ad073-c0ca-4799-8d57-f34c6fa92723.PNG",
+      "author": "Ravi Mehta & Sneha Patel",
+      "date": "29 Sept 2024 09:00 AM",
+      "p1": "Intellectual property law is evolving to address the challenges posed by digital advancements and globalization. The rapid proliferation of technology has led to new forms of intellectual property, such as software and digital content, which were not adequately covered by traditional laws. Recent amendments aim to create a more inclusive framework that recognizes and protects these new forms of intellectual property. For instance, there is a growing emphasis on the protection of software patents and copyrights in the digital space, which is essential for fostering innovation and ensuring that creators can reap the benefits of their inventions. Additionally, the updates aim to simplify the process of obtaining patents and copyrights, making it easier for startups and individual creators to secure their intellectual property rights.",
+      "p2": "Furthermore, the revisions also introduce more stringent measures to combat piracy and counterfeiting, which have become significant issues in the digital age. The law now includes harsher penalties for infringing activities, thereby deterring potential violators. Education and awareness campaigns are also being planned to inform creators and businesses about their rights and responsibilities under the new intellectual property framework. These initiatives will help ensure that individuals understand the importance of protecting their creations and the potential ramifications of infringement. Overall, the recent developments in intellectual property law are geared towards creating a balanced system that encourages innovation while safeguarding the rights of creators."
+    },
+    {
+      "id": 4,
+      "title": "Changes in Employment Law: New Rights for Workers",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS36KroEH9gR8j7WQHIz-xQ7Epp0hWnyXm3hw&s",
+      "author": "Anjali Verma & Karan Joshi",
+      "date": "30 Sept 2024 12:15 PM",
+      "p1": "The recent amendments in employment law provide enhanced rights and protections for workers in various sectors. The changes are particularly significant in addressing issues related to workplace harassment, discrimination, and worker safety. For instance, new provisions mandate that organizations implement robust anti-harassment policies and conduct regular training sessions for employees to foster a safer work environment. The law also establishes clear reporting mechanisms for victims of harassment, ensuring that complaints are handled with the seriousness and confidentiality they deserve. Moreover, the amendments enhance protections for vulnerable workers, including women and marginalized groups, ensuring they have equal access to opportunities and are safeguarded against exploitation.",
+      "p2": "In addition to addressing harassment and discrimination, the amendments also introduce provisions for paid leave, working hours, and the right to organize and form unions. These changes are aimed at improving work-life balance and ensuring that workers have adequate time for personal commitments and rest. By providing paid leave for illness, maternity, and caregiving, the law recognizes the diverse needs of the workforce and promotes overall well-being. Furthermore, the right to unionize is strengthened, allowing workers to collectively negotiate better terms and conditions of employment. This empowerment is crucial in a landscape where worker rights are often overlooked. Overall, these changes reflect a commitment to fostering a fair and equitable work environment that respects and upholds the rights of all workers."
+    },
+    {
+      "id": 5,
+      "title": "Understanding the New Insolvency Regulations",
+      "imgSrc": "https://insolvencylawacademy.com/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-18-at-13.10.35.jpeg",
+      "author": "Deepak Soni & Aisha Khan",
+      "date": "1 Oct 2024 03:00 PM",
+      "p1": "The new insolvency regulations aim to simplify the resolution process for distressed companies. These regulations are designed to provide a more efficient and effective framework for addressing insolvency issues, thereby reducing the time and costs associated with traditional bankruptcy proceedings. One of the key features of the new regulations is the introduction of pre-packaged insolvency plans, which allow companies to negotiate with creditors before officially entering insolvency. This proactive approach can lead to quicker resolutions and help businesses return to viability while maximizing recoveries for creditors. Additionally, the regulations establish clearer guidelines for the roles and responsibilities of insolvency professionals, ensuring that the process is managed by qualified individuals who are accountable for their actions.",
+      "p2": "Furthermore, the regulations also emphasize the importance of stakeholder engagement during the insolvency process. Creditors are now afforded greater rights to participate in decision-making, which can lead to more equitable outcomes for all parties involved. Transparency is a key focus, with requirements for regular reporting and disclosure of financial information to ensure that stakeholders are kept informed throughout the process. Moreover, the new regulations introduce stricter timelines for various stages of the insolvency proceedings, ensuring that cases do not linger unnecessarily. By streamlining the process and fostering greater collaboration among stakeholders, these regulations aim to enhance the overall efficiency of the insolvency framework, ultimately benefiting both businesses and creditors."
+    },
+    {
+      "id": 6,
+      "title": "Impact of the New Tax Reforms on Small Businesses",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0z3hLQoV48OJ8RmZbKk6zeNXW75nkV7iIWA&s",
+      "author": "Neha Gupta & Vikram Desai",
+      "date": "2 Oct 2024 11:45 AM",
+      "p1": "The recent tax reforms have significant implications for small businesses, focusing on reducing compliance burdens and fostering growth. The government recognizes that small businesses are vital to the economy, contributing significantly to employment and innovation. One of the central tenets of the new tax framework is the simplification of tax filing procedures, which aims to make it easier for small business owners to navigate the complexities of tax compliance. This includes the introduction of streamlined forms and a more user-friendly online portal, allowing entrepreneurs to fulfill their tax obligations with greater ease and efficiency. Additionally, the reforms include provisions for lower tax rates for small enterprises, which can help alleviate the financial pressures they face and encourage reinvestment into their businesses.",
+      "p2": "Moreover, the tax reforms also introduce incentives for small businesses that invest in technology and sustainable practices. These incentives are designed to promote innovation and competitiveness, enabling small businesses to adapt to changing market demands. By offering tax credits for investments in renewable energy and digital tools, the government is encouraging businesses to not only grow but also contribute to broader sustainability goals. The reforms also provide guidance and support for small business owners, including workshops and resources to help them understand the new tax landscape. This educational aspect is crucial, as many small business owners may lack the resources to hire tax professionals. Overall, these tax reforms reflect a commitment to supporting small businesses, recognizing their crucial role in driving economic growth and job creation."
+    },
+    {
+      "id": 7,
+      "title": "Environmental Law: New Initiatives for Sustainability",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdl5ILq4q-NJTEQk3qfa4XBVQJHxKTlWg36Q&s",
+      "author": "Rohit Sharma & Maya Verma",
+      "date": "3 Oct 2024 04:20 PM",
+      "p1": "New initiatives in environmental law aim to promote sustainability and combat climate change. As the global community becomes increasingly aware of the urgent need for environmental protection, these laws are designed to address critical issues such as pollution, deforestation, and biodiversity loss. The recent amendments focus on stricter emissions standards for industries, mandating that companies adopt cleaner technologies and practices to reduce their environmental footprint. Furthermore, the regulations encourage investment in renewable energy sources, such as solar and wind power, providing incentives for businesses and individuals to transition away from fossil fuels. This shift is not only vital for environmental health but also opens up new economic opportunities in the growing green technology sector.",
+      "p2": "Additionally, the new environmental initiatives emphasize the importance of public participation in decision-making processes. Citizens are now empowered to engage in environmental assessments and are encouraged to voice their concerns regarding projects that may impact their communities. This participatory approach is essential for ensuring that environmental regulations are effective and equitable. Moreover, the laws introduce mechanisms for enforcing compliance, including significant penalties for violations. This enforcement is critical in holding companies accountable for their environmental responsibilities. The government is also investing in educational programs to raise awareness about sustainability and the importance of protecting natural resources. Overall, these new initiatives reflect a comprehensive approach to environmental law that seeks to balance economic growth with ecological integrity."
+    },
+    {
+      "id": 8,
+      "title": "Enhancements in Corporate Governance Standards",
+      "imgSrc": "https://media.geeksforgeeks.org/wp-content/uploads/20230713160422/Significance-of-Corporate-Governance-2-copy.webp",
+      "author": "Siddharth Nair & Tara Reddy",
+      "date": "4 Oct 2024 09:10 AM",
+      "p1": "Recent updates in corporate governance standards focus on accountability and transparency in corporations. These enhancements are a direct response to public concerns about corporate malfeasance and the need for ethical business practices. The revisions require companies to adopt comprehensive codes of conduct that outline ethical behavior expected from all employees and management. Additionally, there are new regulations regarding the composition of boards of directors, emphasizing diversity and independence to ensure that a variety of perspectives are considered in decision-making processes. This diversity is crucial in fostering a culture of inclusivity and innovation within corporations.",
+      "p2": "Moreover, the new standards also mandate greater disclosure of financial information and potential conflicts of interest, aiming to build trust among stakeholders, including investors, employees, and the public. Companies are now required to provide detailed reports on their governance practices, financial health, and risk management strategies. This transparency is expected to enhance investor confidence and promote more responsible corporate behavior. The regulations also empower shareholders by providing them with greater rights to participate in key decisions, including mergers and acquisitions. This shift towards increased shareholder engagement reflects a broader trend towards stakeholder capitalism, where businesses are held accountable not just to shareholders but to all stakeholders, including employees, customers, and the community at large."
+    },
+    {
+      "id": 9,
+      "title": "Navigating the New Consumer Protection Laws",
+      "imgSrc": "https://economictimes.indiatimes.com/thumb/msid-70711442,width-640,height-480,resizemode-7/consumer-protection-act.jpg?from=mdr",
+      "author": "Aditi Rao & Prakash Choudhury",
+      "date": "5 Oct 2024 01:50 PM",
+      "p1": "The new consumer protection laws are designed to empower consumers and ensure fair trade practices in the marketplace. As consumer rights gain prominence, these laws aim to create a more transparent and accountable business environment. The legislation includes provisions that require businesses to clearly disclose all terms and conditions related to their products and services, ensuring that consumers have all the information necessary to make informed decisions. This transparency is crucial in an era where deceptive marketing practices can easily mislead consumers. Additionally, the laws establish clear guidelines for product safety, mandating that companies adhere to strict safety standards to protect consumers from harm. These standards are particularly important in sectors such as food, electronics, and pharmaceuticals, where safety is paramount.",
+      "p2": "Moreover, the new laws introduce robust mechanisms for grievance redressal, allowing consumers to easily lodge complaints against companies that fail to meet their obligations. This includes the establishment of consumer tribunals and online complaint platforms, making it simpler for individuals to seek justice. The legislation also empowers regulatory authorities to impose penalties on businesses that engage in unfair trade practices, thus deterring misconduct. Education and awareness campaigns are an integral part of the new consumer protection framework, aimed at informing consumers of their rights and how to exercise them effectively. By fostering a culture of informed consumers, the laws seek to promote competition and improve the overall quality of products and services in the market. Overall, these changes reflect a commitment to building a fair and equitable marketplace where consumer rights are respected and upheld."
+    },
+    {
+      "id": 10,
+      "title": "Revisions in Bankruptcy Code: What You Need to Know",
+      "imgSrc": "https://blog.ipleaders.in/wp-content/uploads/2020/09/Bankruptcylaw-1.png",
+      "author": "Samir Joshi & Rina Mehta",
+      "date": "6 Oct 2024 02:30 PM",
+      "p1": "Revisions to the bankruptcy code introduce measures to expedite the insolvency process, addressing the challenges faced by distressed businesses. The previous framework often led to prolonged proceedings, leaving creditors and debtors in uncertain situations. The new regulations aim to streamline the process by introducing clearer timelines and defined procedures, ensuring that cases can be resolved more efficiently. One of the key innovations is the introduction of expedited hearings for small businesses, recognizing that these entities require faster resolutions to regain their footing in the market. By prioritizing small business cases, the revisions help maintain employment and stabilize local economies, which can be severely affected by prolonged bankruptcy proceedings.",
+      "p2": "Furthermore, the revisions enhance the role of insolvency professionals, requiring them to undergo rigorous training and certification to ensure that they possess the necessary expertise to manage complex cases. This move is intended to improve the overall quality of service in the insolvency sector and promote best practices. The new code also encourages greater participation from creditors, who are now given more rights to influence the restructuring process and negotiate terms that are favorable for their recovery. This collaborative approach aims to create win-win situations for both debtors and creditors. Additionally, the revisions incorporate provisions for the protection of employees’ rights during insolvency, ensuring that their wages and benefits are prioritized. By fostering a more equitable and efficient bankruptcy process, these revisions represent a significant step forward in enhancing the business environment and protecting stakeholder interests."
+    },
+    {
+      "id": 11,
+      "title": "Emerging Trends in Corporate Taxation",
+      "imgSrc": "https://i0.wp.com/www.india-briefing.com/news/wp-content/uploads/2018/08/India-Briefing-The-Digital-Workplace-Impact-on-Human-Resource-Planning.jpg?ssl=1",
+      "author": "Karan Yadav & Neelam Saini",
+      "date": "7 Oct 2024 11:00 AM",
+      "p1": "Corporate taxation is undergoing significant changes, reflecting the global shift towards fairness and transparency. As businesses increasingly operate on a global scale, the need for a coherent and equitable taxation framework has never been more pressing. Recent trends indicate a move towards simplifying tax codes and reducing rates for small and medium enterprises (SMEs) to stimulate economic growth. The rationale behind these changes is to create a favorable environment for SMEs, which are crucial for job creation and innovation. Moreover, there is a growing emphasis on taxing digital services, ensuring that multinational companies contribute fairly to the economies in which they operate, regardless of where they are headquartered.",
+      "p2": "Additionally, new regulations are being introduced to combat tax avoidance strategies, including base erosion and profit shifting (BEPS). These measures are designed to ensure that companies pay their fair share of taxes, contributing to the public finances of the countries in which they generate revenue. Transparency is a key theme, with many jurisdictions requiring companies to disclose their tax strategies and financial information, thereby allowing stakeholders to scrutinize their practices. This shift towards greater transparency aims to build trust in the corporate sector and reassure the public that businesses are operating ethically. Furthermore, the introduction of digital tax administration systems aims to streamline compliance, making it easier for businesses to navigate their tax obligations. Overall, these emerging trends in corporate taxation reflect a broader commitment to creating a fair and sustainable economic landscape that benefits all stakeholders."
+    },
+    {
+      "id": 12,
+      "title": "Legal Framework for Cryptocurrency: An Overview",
+      "imgSrc": "https://blog.ipleaders.in/wp-content/uploads/2020/05/Cryptocurrency_logos.jpg",
+      "author": "Vishal Gupta & Anika Sethi",
+      "date": "8 Oct 2024 10:00 AM",
+      "p1": "The legal framework surrounding cryptocurrency is evolving rapidly, with governments working to regulate digital currencies. As cryptocurrencies gain popularity, concerns regarding security, fraud, and consumer protection have emerged. The new regulations are designed to address these concerns by establishing clear guidelines for cryptocurrency exchanges and service providers. One of the central tenets of this framework is the requirement for exchanges to implement robust anti-money laundering (AML) and know-your-customer (KYC) practices, ensuring that they verify the identities of their users to prevent illicit activities. Additionally, the regulations aim to protect consumers by requiring exchanges to disclose their fees, terms of service, and the risks associated with trading in cryptocurrencies, thereby enabling individuals to make informed decisions.",
+      "p2": "Furthermore, the legal framework also addresses the taxation of cryptocurrencies, clarifying how gains from digital assets should be reported and taxed. This clarity is essential for both investors and regulators, as it promotes compliance and helps prevent tax evasion. The regulations also include provisions for the licensing of cryptocurrency exchanges, ensuring that only compliant and legitimate entities operate in the market. This licensing process is intended to foster a safer trading environment and enhance public trust in digital currencies. Moreover, the framework encourages innovation in the cryptocurrency space by allowing for sandbox environments where new technologies can be tested under regulatory oversight. By balancing regulation with innovation, the legal framework aims to create a sustainable ecosystem that promotes the growth of digital currencies while protecting the interests of consumers and investors."
+    },
+    {
+      "id": 13,
+      "title": "Corporate Social Responsibility: New Regulations",
+      "imgSrc": "https://cs-india.com/wp-content/uploads/2020/02/Latest-CSR-Rules-for-Companies.jpg",
+      "author": "Amit Malhotra & Simran Kaur",
+      "date": "9 Oct 2024 12:30 PM",
+      "p1": "The recent regulations surrounding corporate social responsibility (CSR) are aimed at enhancing the accountability of corporations towards society and the environment. As businesses increasingly recognize their role in promoting sustainable development, these regulations provide a framework for companies to integrate CSR into their core operations. One of the key aspects of the new regulations is the requirement for companies to develop and publish comprehensive CSR policies that outline their commitments, objectives, and strategies for social impact. This transparency not only fosters trust among stakeholders but also encourages organizations to set measurable targets for their CSR initiatives. Furthermore, the regulations mandate that a certain percentage of profits be allocated to CSR activities, ensuring that companies contribute to societal development consistently.",
+      "p2": "In addition to financial commitments, the regulations also emphasize the importance of stakeholder engagement in CSR efforts. Companies are now required to consult with communities and other stakeholders when planning their CSR initiatives, ensuring that their efforts align with the needs and expectations of those they aim to serve. This participatory approach is crucial for maximizing the impact of CSR programs and fostering a sense of community ownership. Moreover, the regulations include provisions for monitoring and reporting on CSR activities, requiring companies to disclose their achievements and challenges publicly. This accountability not only enhances corporate reputation but also encourages continuous improvement in CSR practices. Overall, the new CSR regulations reflect a growing recognition of the interconnectedness of business success and social responsibility, promoting a more sustainable and inclusive approach to corporate operations."
+    },
+    {
+      "id": 14,
+      "title": "Reforms in Family Law: Modernizing the System",
+      "imgSrc": "https://vidhilegalpolicy.in/wp-content/uploads/2023/07/Cover-image-atypical-1.jpg",
+      "author": "Neeraj Agarwal & Poonam Sinha",
+      "date": "10 Oct 2024 03:15 PM",
+      "p1": "Recent reforms in family law aim to modernize the legal framework governing family relationships, reflecting changing social norms and values. These reforms focus on ensuring fairness and equality in matters related to marriage, divorce, custody, and property rights. One of the key changes is the introduction of provisions that recognize and protect the rights of women, particularly in divorce proceedings. The new regulations aim to ensure that women have equal access to assets and financial support, addressing historical imbalances in family law. Additionally, the reforms seek to streamline divorce processes, making them more accessible and less adversarial. This includes the introduction of mediation and counseling services to help couples reach amicable settlements, reducing the emotional toll of protracted legal battles.",
+      "p2": "Moreover, the reforms also emphasize the importance of children’s rights in custody disputes, ensuring that their best interests are prioritized. The regulations introduce guidelines for determining custody arrangements that promote the welfare of children, recognizing the importance of maintaining relationships with both parents. Furthermore, the reforms aim to address issues related to domestic violence and provide stronger protections for victims, including access to legal aid and support services. By incorporating provisions for safety and support, the new family law framework seeks to create a more just and equitable system for all family members. Overall, these reforms reflect a commitment to adapting family law to meet the needs of modern society, ensuring that legal protections keep pace with social changes."
+    },
+    {
+      "id": 15,
+      "title": "International Trade Law: New Developments",
+      "imgSrc": "https://d32b5joreyushd.cloudfront.net/media/post/2018-03-17_074342.6800220000.jpg",
+      "author": "Rajesh Sharma & Kavya Singh",
+      "date": "11 Oct 2024 11:00 AM",
+      "p1": "The landscape of international trade law is continuously evolving, with new developments reflecting the complexities of globalization and changing economic dynamics. Recent treaties and agreements aim to enhance trade relations while addressing issues such as tariffs, intellectual property rights, and environmental standards. One of the significant developments is the emphasis on free trade agreements (FTAs), which aim to reduce barriers to trade between countries. These agreements not only promote economic cooperation but also foster diplomatic relations. Additionally, the new trade laws prioritize fair competition, ensuring that all parties adhere to established standards and practices, which is essential for maintaining a level playing field in the global market.",
+      "p2": "Moreover, recent discussions have highlighted the importance of incorporating sustainability into trade agreements. The new regulations encourage countries to consider environmental impacts when negotiating trade deals, promoting responsible trade practices that benefit both the economy and the planet. This includes provisions for sustainable sourcing and protecting labor rights, ensuring that trade growth does not come at the expense of social and environmental standards. Furthermore, the laws emphasize the resolution of trade disputes, providing clear mechanisms for addressing conflicts that may arise between trading partners. This is crucial for maintaining trust and cooperation in international relations. Overall, the developments in international trade law reflect a comprehensive approach to promoting fair, sustainable, and equitable trade practices on a global scale."
+    },
+    {
+      "id": 16,
+      "title": "Healthcare Law: New Regulations for Patient Rights",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS8npkYkFipA4SkHwqGwYTZcb1g1GnxAf-qw&s",
+      "author": "Sonia Khanna & Arjun Rao",
+      "date": "12 Oct 2024 02:00 PM",
+      "p1": "The recent changes in healthcare law are designed to enhance patient rights and ensure high standards of care in medical facilities. With an increasing focus on patient-centered care, the new regulations aim to protect individuals’ rights concerning their medical treatment, privacy, and access to information. One of the central aspects of the reforms is the establishment of clearer guidelines for informed consent, ensuring that patients fully understand the risks and benefits of treatments before making decisions. This transparency is crucial in fostering trust between healthcare providers and patients, empowering individuals to take an active role in their health care decisions. Additionally, the regulations introduce strict penalties for violations of patient privacy, reflecting a commitment to safeguarding sensitive medical information in an increasingly digital age.",
+      "p2": "Furthermore, the reforms emphasize the importance of patient advocacy, encouraging the establishment of ombudspersons in healthcare facilities to address grievances and ensure that patients’ voices are heard. These advocates play a critical role in mediating conflicts between patients and providers, promoting resolution and accountability. Moreover, the new regulations also prioritize access to healthcare, particularly for marginalized communities, ensuring that all individuals have equitable access to necessary medical services. This includes provisions for non-discrimination based on race, gender, or socioeconomic status, reflecting a commitment to health equity. Overall, the changes in healthcare law represent a significant step towards a more just and equitable healthcare system that respects and protects the rights of all patients."
+    }
+  ],
+
+  "lawyers": [
+    {
+      "id": 1,
+      "name": "Adv. Harshwardhan Sharma",
+      "ratings": [
+        {
+          "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+        }
+      ],
+      "imgSrc": "https://drive.google.com/file/d/1wJgJtAPgX1xJSINex7oJiMx5Pzyjv9yG/view?usp=sharing",
+      "exp": "8+ Years of Experience",
+      "tags": [
+        {
+          "t1": "Cheque Bounce",
+          "t2": "Divorce and Family Law",
+          "t3": "Corporate and Business Law",
+          "t4": "Consumer Protection Law",
+          "t5": "Labour and Employment Law"
+        }
+      ],
+      "location": [
+        {
+          "chamber": "Chamber 12",
+          "court": "Karkardooma Court",
+          "area": "Karkardooma",
+          "district": "Vishwash Nagar",
+          "city": "Delhi"
+        }
+      ],
+      "price": 500
+    },
+    [
       {
         "id": 2,
-        "title": "Lease Agreement",
-        "price": 2500,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/12727/12727980.png"
+        "name": "Adv. Priya Singh",
+        "ratings": [
+          {
+              "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+          }
+        ],
+        "imgSrc": "https://drive.google.com/file/d/10rPLf0Y2zwEypO7Po6YJgOzlyPrBKZSU/view?usp=sharing",
+        "exp": "7+ Years of Experience",
+        "tags": [
+          {
+            "t1": "Criminal Law",
+            "t2": "Civil Litigation",
+            "t3": "Intellectual Property",
+            "t4": "Family Law",
+            "t5": "Real Estate Law"
+          }
+        ],
+        "location": [
+          {
+            "chamber": "Chamber 15",
+            "court": "Patiala House Court",
+            "area": "Patiala",
+            "district": "New Delhi",
+            "city": "Delhi"
+          }
+        ],
+        "price": 1600
       },
       {
         "id": 3,
-        "title": "Power of Attorney",
-        "price": 3200,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/2672/2672267.png"
+        "name": "Adv. Ramesh Verma",
+        "ratings": [
+          {
+            "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+          "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+          }
+        ],
+        "imgSrc": "https://drive.google.com/file/d/1L_kI-BGa40u_4hNt3PzN5NErDgxXuxfr/view?usp=sharing",
+        "exp": "10+ Years of Experience",
+        "tags": [
+          {
+            "t1": "Tax Law",
+            "t2": "Corporate Law",
+            "t3": "Contract Law",
+            "t4": "Mediation",
+            "t5": "Employment Law"
+          }
+        ],
+        "location": [
+          {
+            "chamber": "Chamber 20",
+            "court": "Dwarka Court",
+            "area": "Dwarka",
+            "district": "South West Delhi",
+            "city": "Delhi"
+          }
+        ],
+        "price": 800
       },
       {
         "id": 4,
-        "title": "Gift Deed",
-        "price": 4800,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/2506/2506937.png"
+        "name": "Adv. Neha Gupta",
+        "ratings": [
+          {
+           "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+          }
+        ],
+        "imgSrc": "https://drive.google.com/file/d/1sdHrk_fOlAAHTndB6aj0yhaU5nZLZ-pA/view?usp=sharing",
+        "exp": "7+ Years of Experience",
+        "tags": [
+          {
+            "t1": "Property Law",
+            "t2": "Consumer Rights",
+            "t3": "Family Disputes",
+            "t4": "Arbitration",
+            "t5": "Immigration Law"
+          }
+        ],
+        "location": [
+          {
+            "chamber": "Chamber 30",
+            "court": "Saket Court",
+            "area": "Saket",
+            "district": "South Delhi",
+            "city": "Delhi"
+          }
+        ],
+        "price": 700
       },
       {
         "id": 5,
-        "title": "Will & Testament",
-        "price": 5000,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/2782/2782651.png"
+        "name": "Adv. Suresh Kumar",
+        "ratings": [
+          {
+            "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+          }
+        ],
+        "imgSrc": "https://drive.google.com/file/d/1aSYtzpdiDECMfzRe3kolL-_nBtJLHHrD/view?usp=sharing",
+        "exp": "6+ Years of Experience",
+        "tags": [
+          {
+            "t1": "Banking Law",
+            "t2": "Commercial Law",
+            "t3": "Consumer Protection",
+            "t4": "Family Law",
+            "t5": "Negotiation"
+          }
+        ],
+        "location": [
+          {
+            "chamber": "Chamber 5",
+            "court": "Tis Hazari Court",
+            "area": "Tis Hazari",
+            "district": "Central Delhi",
+            "city": "Delhi"
+          }
+        ],
+        "price": 650
       },
       {
         "id": 6,
-        "title": "Partnership Agreement",
-        "price": 3000,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/2618/2618576.png"
+        "name": "Adv. Anjali Mehta",
+        "ratings": [
+          {
+            "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+          }
+        ],
+        "imgSrc": "https://drive.google.com/file/d/16_0YqQZWhfI9gNMyywFxxtcdFgI6OCGZ/view?usp=sharing",
+        "exp": "9+ Years of Experience",
+        "tags": [
+          {
+            "t1": "Environmental Law",
+            "t2": "Corporate Compliance",
+            "t3": "Human Rights Law",
+            "t4": "Family Law",
+            "t5": "Public Interest Law"
+          }
+        ],
+        "location": [
+          {
+            "chamber": "Chamber 22",
+            "court": "Karkardooma Court",
+            "area": "Karkardooma",
+            "district": "Vishwash Nagar",
+            "city": "Delhi"
+          }
+        ],
+        "price": 750
       },
       {
         "id": 7,
-        "title": "Employment Contract",
-        "price": 2800,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/5545/5545080.png"
+        "name": "Adv. Vikram Choudhary",
+        "ratings": [
+          {
+            "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+          }
+        ],
+        "imgSrc": "https://drive.google.com/file/d/1EpzUfwkgwvz92kgYpcwyoz-Qr2YmWvKn/view?usp=sharing",
+        "exp": "4+ Years of Experience",
+        "tags": [
+          {
+            "t1": "Real Estate",
+            "t2": "Commercial Contracts",
+            "t3": "Dispute Resolution",
+            "t4": "Employment Disputes",
+            "t5": "Mediation"
+          }
+        ],
+        "location": [
+          {
+            "chamber": "Chamber 10",
+            "court": "Rohini Court",
+            "area": "Rohini",
+            "district": "North West Delhi",
+            "city": "Delhi"
+          }
+        ],
+        "price": 550
       },
       {
         "id": 8,
-        "title": "Non-Disclosure Agreement",
-        "price": 1500,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/14098/14098378.png"
-      },
-      {
-        "id": 9,
-        "title": "Vendor Agreement",
-        "price": 3600,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/12371/12371498.png"
-      },
-      {
-        "id": 10,
-        "title": "Service Agreement",
-        "price": 4200,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/10210/10210587.png"
-      },
-      {
-        "id": 11,
-        "title": "Property Agreement",
-        "price": 6000,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/3466/3466938.png"
-      },
-      {
-        "id": 12,
-        "title": "Business Transfer Agreement",
-        "price": 7500,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/12009/12009951.png"
-      },
-      {
-        "id": 13,
-        "title": "Loan Agreement",
-        "price": 3500,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/12727/12727980.png"
-      },
-      {
-        "id": 14,
-        "title": "Shareholders Agreement",
-        "price": 5500,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/9568/9568824.png"
-      },
-      {
-        "id": 15,
-        "title": "Franchise Agreement",
-        "price": 6800,
-        "imgSrc": "https://cdn-icons-png.flaticon.com/512/9568/9568824.png"
-      }
-    ],
-  
-    "blog": [
-      {
-        "id": 1,
-        "title": "Significant Amendments Under The Foreign Exchange (Compounding Proceedings), Rules",
-        "imgSrc": "https://www.livelaw.in/h-upload/2024/09/26/500x300_562819-foreign-exchange-management-act-fema.webp",
-        "author": "Manassvi Sharrma & Sahil Singh",
-        "date": "27 Sept 2024 11:53 AM",
-        "p1": "Under the Foreign Exchange Management Act (FEMA), 1999, when a person using foreign exchange does not comply with the provisions of “FEMA” he commits a contravention. Contravention means a non-compliance of provisions of the act and it includes rules/ regulations/ notification/ orders/ directions/ circulars issued under the act.",
-        "p2": "The term compounding is a voluntary act through which a person admits to such contravention and seeks redressal for the same. The Reserve Bank is empowered to compound any contravention as defined under section 13 of FEMA, 1999 except the contravention under section 3(a).[2] Therefore, under this process a person committing a contravention will file an application to the compounding authority (defined under rule 3 of the FEMA rules) voluntarily accepting the contravention and to be excused , the contravenor must pay the penalty assessed by the RBI and will be given the opportunity of personal hearing.[3] The crime must be compounded within 180 days of the application."
-      },
-      {
-        "id": 2,
-        "title": "Updates on Data Protection Regulations in India",
-        "imgSrc": "https://vidhilegalpolicy.in/wp-content/uploads/2021/12/20181123-shutterstock_619615334.jpg",
-        "author": "Priya Kumar & Amit Singh",
-        "date": "28 Sept 2024 10:30 AM",
-        "p1": "India is in the process of strengthening its data protection framework, focusing on the rights of individuals regarding their personal data. The recent developments aim to align with global standards, particularly those established by the General Data Protection Regulation (GDPR) in the European Union. These regulations emphasize the necessity of obtaining explicit consent from individuals before any data processing takes place. The legislation also seeks to introduce stringent penalties for breaches, ensuring that organizations prioritize the security and privacy of user data. Furthermore, the updates promote transparency by mandating organizations to clearly inform users about how their data is collected, used, and shared, empowering individuals to make informed choices about their personal information.",
-        "p2": "In addition to enhancing individual rights, the proposed legislation also outlines the responsibilities of organizations, particularly in terms of data handling and storage. Companies will be required to implement robust data protection measures, conduct regular audits, and appoint dedicated data protection officers to oversee compliance. The government aims to foster a culture of accountability and responsibility within organizations, thereby minimizing the risk of data breaches and misuse of information. Moreover, the legislation includes provisions for the establishment of a regulatory authority to oversee the implementation of these laws, investigate complaints, and ensure compliance. This regulatory body will play a crucial role in promoting awareness about data protection rights and guiding organizations in adhering to the new regulations."
-      },
-      {
-        "id": 3,
-        "title": "Recent Developments in Intellectual Property Law",
-        "imgSrc": "https://d2dzik4ii1e1u6.cloudfront.net/images/lexology/static/a85ad073-c0ca-4799-8d57-f34c6fa92723.PNG",
-        "author": "Ravi Mehta & Sneha Patel",
-        "date": "29 Sept 2024 09:00 AM",
-        "p1": "Intellectual property law is evolving to address the challenges posed by digital advancements and globalization. The rapid proliferation of technology has led to new forms of intellectual property, such as software and digital content, which were not adequately covered by traditional laws. Recent amendments aim to create a more inclusive framework that recognizes and protects these new forms of intellectual property. For instance, there is a growing emphasis on the protection of software patents and copyrights in the digital space, which is essential for fostering innovation and ensuring that creators can reap the benefits of their inventions. Additionally, the updates aim to simplify the process of obtaining patents and copyrights, making it easier for startups and individual creators to secure their intellectual property rights.",
-        "p2": "Furthermore, the revisions also introduce more stringent measures to combat piracy and counterfeiting, which have become significant issues in the digital age. The law now includes harsher penalties for infringing activities, thereby deterring potential violators. Education and awareness campaigns are also being planned to inform creators and businesses about their rights and responsibilities under the new intellectual property framework. These initiatives will help ensure that individuals understand the importance of protecting their creations and the potential ramifications of infringement. Overall, the recent developments in intellectual property law are geared towards creating a balanced system that encourages innovation while safeguarding the rights of creators."
-      },
-      {
-        "id": 4,
-        "title": "Changes in Employment Law: New Rights for Workers",
-        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS36KroEH9gR8j7WQHIz-xQ7Epp0hWnyXm3hw&s",
-        "author": "Anjali Verma & Karan Joshi",
-        "date": "30 Sept 2024 12:15 PM",
-        "p1": "The recent amendments in employment law provide enhanced rights and protections for workers in various sectors. The changes are particularly significant in addressing issues related to workplace harassment, discrimination, and worker safety. For instance, new provisions mandate that organizations implement robust anti-harassment policies and conduct regular training sessions for employees to foster a safer work environment. The law also establishes clear reporting mechanisms for victims of harassment, ensuring that complaints are handled with the seriousness and confidentiality they deserve. Moreover, the amendments enhance protections for vulnerable workers, including women and marginalized groups, ensuring they have equal access to opportunities and are safeguarded against exploitation.",
-        "p2": "In addition to addressing harassment and discrimination, the amendments also introduce provisions for paid leave, working hours, and the right to organize and form unions. These changes are aimed at improving work-life balance and ensuring that workers have adequate time for personal commitments and rest. By providing paid leave for illness, maternity, and caregiving, the law recognizes the diverse needs of the workforce and promotes overall well-being. Furthermore, the right to unionize is strengthened, allowing workers to collectively negotiate better terms and conditions of employment. This empowerment is crucial in a landscape where worker rights are often overlooked. Overall, these changes reflect a commitment to fostering a fair and equitable work environment that respects and upholds the rights of all workers."
-      },
-      {
-        "id": 5,
-        "title": "Understanding the New Insolvency Regulations",
-        "imgSrc": "https://insolvencylawacademy.com/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-18-at-13.10.35.jpeg",
-        "author": "Deepak Soni & Aisha Khan",
-        "date": "1 Oct 2024 03:00 PM",
-        "p1": "The new insolvency regulations aim to simplify the resolution process for distressed companies. These regulations are designed to provide a more efficient and effective framework for addressing insolvency issues, thereby reducing the time and costs associated with traditional bankruptcy proceedings. One of the key features of the new regulations is the introduction of pre-packaged insolvency plans, which allow companies to negotiate with creditors before officially entering insolvency. This proactive approach can lead to quicker resolutions and help businesses return to viability while maximizing recoveries for creditors. Additionally, the regulations establish clearer guidelines for the roles and responsibilities of insolvency professionals, ensuring that the process is managed by qualified individuals who are accountable for their actions.",
-        "p2": "Furthermore, the regulations also emphasize the importance of stakeholder engagement during the insolvency process. Creditors are now afforded greater rights to participate in decision-making, which can lead to more equitable outcomes for all parties involved. Transparency is a key focus, with requirements for regular reporting and disclosure of financial information to ensure that stakeholders are kept informed throughout the process. Moreover, the new regulations introduce stricter timelines for various stages of the insolvency proceedings, ensuring that cases do not linger unnecessarily. By streamlining the process and fostering greater collaboration among stakeholders, these regulations aim to enhance the overall efficiency of the insolvency framework, ultimately benefiting both businesses and creditors."
-      },
-      {
-        "id": 6,
-        "title": "Impact of the New Tax Reforms on Small Businesses",
-        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0z3hLQoV48OJ8RmZbKk6zeNXW75nkV7iIWA&s",
-        "author": "Neha Gupta & Vikram Desai",
-        "date": "2 Oct 2024 11:45 AM",
-        "p1": "The recent tax reforms have significant implications for small businesses, focusing on reducing compliance burdens and fostering growth. The government recognizes that small businesses are vital to the economy, contributing significantly to employment and innovation. One of the central tenets of the new tax framework is the simplification of tax filing procedures, which aims to make it easier for small business owners to navigate the complexities of tax compliance. This includes the introduction of streamlined forms and a more user-friendly online portal, allowing entrepreneurs to fulfill their tax obligations with greater ease and efficiency. Additionally, the reforms include provisions for lower tax rates for small enterprises, which can help alleviate the financial pressures they face and encourage reinvestment into their businesses.",
-        "p2": "Moreover, the tax reforms also introduce incentives for small businesses that invest in technology and sustainable practices. These incentives are designed to promote innovation and competitiveness, enabling small businesses to adapt to changing market demands. By offering tax credits for investments in renewable energy and digital tools, the government is encouraging businesses to not only grow but also contribute to broader sustainability goals. The reforms also provide guidance and support for small business owners, including workshops and resources to help them understand the new tax landscape. This educational aspect is crucial, as many small business owners may lack the resources to hire tax professionals. Overall, these tax reforms reflect a commitment to supporting small businesses, recognizing their crucial role in driving economic growth and job creation."
-      },
-      {
-        "id": 7,
-        "title": "Environmental Law: New Initiatives for Sustainability",
-        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdl5ILq4q-NJTEQk3qfa4XBVQJHxKTlWg36Q&s",
-        "author": "Rohit Sharma & Maya Verma",
-        "date": "3 Oct 2024 04:20 PM",
-        "p1": "New initiatives in environmental law aim to promote sustainability and combat climate change. As the global community becomes increasingly aware of the urgent need for environmental protection, these laws are designed to address critical issues such as pollution, deforestation, and biodiversity loss. The recent amendments focus on stricter emissions standards for industries, mandating that companies adopt cleaner technologies and practices to reduce their environmental footprint. Furthermore, the regulations encourage investment in renewable energy sources, such as solar and wind power, providing incentives for businesses and individuals to transition away from fossil fuels. This shift is not only vital for environmental health but also opens up new economic opportunities in the growing green technology sector.",
-        "p2": "Additionally, the new environmental initiatives emphasize the importance of public participation in decision-making processes. Citizens are now empowered to engage in environmental assessments and are encouraged to voice their concerns regarding projects that may impact their communities. This participatory approach is essential for ensuring that environmental regulations are effective and equitable. Moreover, the laws introduce mechanisms for enforcing compliance, including significant penalties for violations. This enforcement is critical in holding companies accountable for their environmental responsibilities. The government is also investing in educational programs to raise awareness about sustainability and the importance of protecting natural resources. Overall, these new initiatives reflect a comprehensive approach to environmental law that seeks to balance economic growth with ecological integrity."
-      },
-      {
-        "id": 8,
-        "title": "Enhancements in Corporate Governance Standards",
-        "imgSrc": "https://media.geeksforgeeks.org/wp-content/uploads/20230713160422/Significance-of-Corporate-Governance-2-copy.webp",
-        "author": "Siddharth Nair & Tara Reddy",
-        "date": "4 Oct 2024 09:10 AM",
-        "p1": "Recent updates in corporate governance standards focus on accountability and transparency in corporations. These enhancements are a direct response to public concerns about corporate malfeasance and the need for ethical business practices. The revisions require companies to adopt comprehensive codes of conduct that outline ethical behavior expected from all employees and management. Additionally, there are new regulations regarding the composition of boards of directors, emphasizing diversity and independence to ensure that a variety of perspectives are considered in decision-making processes. This diversity is crucial in fostering a culture of inclusivity and innovation within corporations.",
-        "p2": "Moreover, the new standards also mandate greater disclosure of financial information and potential conflicts of interest, aiming to build trust among stakeholders, including investors, employees, and the public. Companies are now required to provide detailed reports on their governance practices, financial health, and risk management strategies. This transparency is expected to enhance investor confidence and promote more responsible corporate behavior. The regulations also empower shareholders by providing them with greater rights to participate in key decisions, including mergers and acquisitions. This shift towards increased shareholder engagement reflects a broader trend towards stakeholder capitalism, where businesses are held accountable not just to shareholders but to all stakeholders, including employees, customers, and the community at large."
-      },
-      {
-        "id": 9,
-        "title": "Navigating the New Consumer Protection Laws",
-        "imgSrc": "https://economictimes.indiatimes.com/thumb/msid-70711442,width-640,height-480,resizemode-7/consumer-protection-act.jpg?from=mdr",
-        "author": "Aditi Rao & Prakash Choudhury",
-        "date": "5 Oct 2024 01:50 PM",
-        "p1": "The new consumer protection laws are designed to empower consumers and ensure fair trade practices in the marketplace. As consumer rights gain prominence, these laws aim to create a more transparent and accountable business environment. The legislation includes provisions that require businesses to clearly disclose all terms and conditions related to their products and services, ensuring that consumers have all the information necessary to make informed decisions. This transparency is crucial in an era where deceptive marketing practices can easily mislead consumers. Additionally, the laws establish clear guidelines for product safety, mandating that companies adhere to strict safety standards to protect consumers from harm. These standards are particularly important in sectors such as food, electronics, and pharmaceuticals, where safety is paramount.",
-        "p2": "Moreover, the new laws introduce robust mechanisms for grievance redressal, allowing consumers to easily lodge complaints against companies that fail to meet their obligations. This includes the establishment of consumer tribunals and online complaint platforms, making it simpler for individuals to seek justice. The legislation also empowers regulatory authorities to impose penalties on businesses that engage in unfair trade practices, thus deterring misconduct. Education and awareness campaigns are an integral part of the new consumer protection framework, aimed at informing consumers of their rights and how to exercise them effectively. By fostering a culture of informed consumers, the laws seek to promote competition and improve the overall quality of products and services in the market. Overall, these changes reflect a commitment to building a fair and equitable marketplace where consumer rights are respected and upheld."
-      },
-      {
-        "id": 10,
-        "title": "Revisions in Bankruptcy Code: What You Need to Know",
-        "imgSrc": "https://blog.ipleaders.in/wp-content/uploads/2020/09/Bankruptcylaw-1.png",
-        "author": "Samir Joshi & Rina Mehta",
-        "date": "6 Oct 2024 02:30 PM",
-        "p1": "Revisions to the bankruptcy code introduce measures to expedite the insolvency process, addressing the challenges faced by distressed businesses. The previous framework often led to prolonged proceedings, leaving creditors and debtors in uncertain situations. The new regulations aim to streamline the process by introducing clearer timelines and defined procedures, ensuring that cases can be resolved more efficiently. One of the key innovations is the introduction of expedited hearings for small businesses, recognizing that these entities require faster resolutions to regain their footing in the market. By prioritizing small business cases, the revisions help maintain employment and stabilize local economies, which can be severely affected by prolonged bankruptcy proceedings.",
-        "p2": "Furthermore, the revisions enhance the role of insolvency professionals, requiring them to undergo rigorous training and certification to ensure that they possess the necessary expertise to manage complex cases. This move is intended to improve the overall quality of service in the insolvency sector and promote best practices. The new code also encourages greater participation from creditors, who are now given more rights to influence the restructuring process and negotiate terms that are favorable for their recovery. This collaborative approach aims to create win-win situations for both debtors and creditors. Additionally, the revisions incorporate provisions for the protection of employees’ rights during insolvency, ensuring that their wages and benefits are prioritized. By fostering a more equitable and efficient bankruptcy process, these revisions represent a significant step forward in enhancing the business environment and protecting stakeholder interests."
-      },
-      {
-        "id": 11,
-        "title": "Emerging Trends in Corporate Taxation",
-        "imgSrc": "https://i0.wp.com/www.india-briefing.com/news/wp-content/uploads/2018/08/India-Briefing-The-Digital-Workplace-Impact-on-Human-Resource-Planning.jpg?ssl=1",
-        "author": "Karan Yadav & Neelam Saini",
-        "date": "7 Oct 2024 11:00 AM",
-        "p1": "Corporate taxation is undergoing significant changes, reflecting the global shift towards fairness and transparency. As businesses increasingly operate on a global scale, the need for a coherent and equitable taxation framework has never been more pressing. Recent trends indicate a move towards simplifying tax codes and reducing rates for small and medium enterprises (SMEs) to stimulate economic growth. The rationale behind these changes is to create a favorable environment for SMEs, which are crucial for job creation and innovation. Moreover, there is a growing emphasis on taxing digital services, ensuring that multinational companies contribute fairly to the economies in which they operate, regardless of where they are headquartered.",
-        "p2": "Additionally, new regulations are being introduced to combat tax avoidance strategies, including base erosion and profit shifting (BEPS). These measures are designed to ensure that companies pay their fair share of taxes, contributing to the public finances of the countries in which they generate revenue. Transparency is a key theme, with many jurisdictions requiring companies to disclose their tax strategies and financial information, thereby allowing stakeholders to scrutinize their practices. This shift towards greater transparency aims to build trust in the corporate sector and reassure the public that businesses are operating ethically. Furthermore, the introduction of digital tax administration systems aims to streamline compliance, making it easier for businesses to navigate their tax obligations. Overall, these emerging trends in corporate taxation reflect a broader commitment to creating a fair and sustainable economic landscape that benefits all stakeholders."
-      },
-      {
-        "id": 12,
-        "title": "Legal Framework for Cryptocurrency: An Overview",
-        "imgSrc": "https://blog.ipleaders.in/wp-content/uploads/2020/05/Cryptocurrency_logos.jpg",
-        "author": "Vishal Gupta & Anika Sethi",
-        "date": "8 Oct 2024 10:00 AM",
-        "p1": "The legal framework surrounding cryptocurrency is evolving rapidly, with governments working to regulate digital currencies. As cryptocurrencies gain popularity, concerns regarding security, fraud, and consumer protection have emerged. The new regulations are designed to address these concerns by establishing clear guidelines for cryptocurrency exchanges and service providers. One of the central tenets of this framework is the requirement for exchanges to implement robust anti-money laundering (AML) and know-your-customer (KYC) practices, ensuring that they verify the identities of their users to prevent illicit activities. Additionally, the regulations aim to protect consumers by requiring exchanges to disclose their fees, terms of service, and the risks associated with trading in cryptocurrencies, thereby enabling individuals to make informed decisions.",
-        "p2": "Furthermore, the legal framework also addresses the taxation of cryptocurrencies, clarifying how gains from digital assets should be reported and taxed. This clarity is essential for both investors and regulators, as it promotes compliance and helps prevent tax evasion. The regulations also include provisions for the licensing of cryptocurrency exchanges, ensuring that only compliant and legitimate entities operate in the market. This licensing process is intended to foster a safer trading environment and enhance public trust in digital currencies. Moreover, the framework encourages innovation in the cryptocurrency space by allowing for sandbox environments where new technologies can be tested under regulatory oversight. By balancing regulation with innovation, the legal framework aims to create a sustainable ecosystem that promotes the growth of digital currencies while protecting the interests of consumers and investors."
-      },
-      {
-        "id": 13,
-        "title": "Corporate Social Responsibility: New Regulations",
-        "imgSrc": "https://cs-india.com/wp-content/uploads/2020/02/Latest-CSR-Rules-for-Companies.jpg",
-        "author": "Amit Malhotra & Simran Kaur",
-        "date": "9 Oct 2024 12:30 PM",
-        "p1": "The recent regulations surrounding corporate social responsibility (CSR) are aimed at enhancing the accountability of corporations towards society and the environment. As businesses increasingly recognize their role in promoting sustainable development, these regulations provide a framework for companies to integrate CSR into their core operations. One of the key aspects of the new regulations is the requirement for companies to develop and publish comprehensive CSR policies that outline their commitments, objectives, and strategies for social impact. This transparency not only fosters trust among stakeholders but also encourages organizations to set measurable targets for their CSR initiatives. Furthermore, the regulations mandate that a certain percentage of profits be allocated to CSR activities, ensuring that companies contribute to societal development consistently.",
-        "p2": "In addition to financial commitments, the regulations also emphasize the importance of stakeholder engagement in CSR efforts. Companies are now required to consult with communities and other stakeholders when planning their CSR initiatives, ensuring that their efforts align with the needs and expectations of those they aim to serve. This participatory approach is crucial for maximizing the impact of CSR programs and fostering a sense of community ownership. Moreover, the regulations include provisions for monitoring and reporting on CSR activities, requiring companies to disclose their achievements and challenges publicly. This accountability not only enhances corporate reputation but also encourages continuous improvement in CSR practices. Overall, the new CSR regulations reflect a growing recognition of the interconnectedness of business success and social responsibility, promoting a more sustainable and inclusive approach to corporate operations."
-      },
-      {
-        "id": 14,
-        "title": "Reforms in Family Law: Modernizing the System",
-        "imgSrc": "https://vidhilegalpolicy.in/wp-content/uploads/2023/07/Cover-image-atypical-1.jpg",
-        "author": "Neeraj Agarwal & Poonam Sinha",
-        "date": "10 Oct 2024 03:15 PM",
-        "p1": "Recent reforms in family law aim to modernize the legal framework governing family relationships, reflecting changing social norms and values. These reforms focus on ensuring fairness and equality in matters related to marriage, divorce, custody, and property rights. One of the key changes is the introduction of provisions that recognize and protect the rights of women, particularly in divorce proceedings. The new regulations aim to ensure that women have equal access to assets and financial support, addressing historical imbalances in family law. Additionally, the reforms seek to streamline divorce processes, making them more accessible and less adversarial. This includes the introduction of mediation and counseling services to help couples reach amicable settlements, reducing the emotional toll of protracted legal battles.",
-        "p2": "Moreover, the reforms also emphasize the importance of children’s rights in custody disputes, ensuring that their best interests are prioritized. The regulations introduce guidelines for determining custody arrangements that promote the welfare of children, recognizing the importance of maintaining relationships with both parents. Furthermore, the reforms aim to address issues related to domestic violence and provide stronger protections for victims, including access to legal aid and support services. By incorporating provisions for safety and support, the new family law framework seeks to create a more just and equitable system for all family members. Overall, these reforms reflect a commitment to adapting family law to meet the needs of modern society, ensuring that legal protections keep pace with social changes."
-      },
-      {
-        "id": 15,
-        "title": "International Trade Law: New Developments",
-        "imgSrc": "https://d32b5joreyushd.cloudfront.net/media/post/2018-03-17_074342.6800220000.jpg",
-        "author": "Rajesh Sharma & Kavya Singh",
-        "date": "11 Oct 2024 11:00 AM",
-        "p1": "The landscape of international trade law is continuously evolving, with new developments reflecting the complexities of globalization and changing economic dynamics. Recent treaties and agreements aim to enhance trade relations while addressing issues such as tariffs, intellectual property rights, and environmental standards. One of the significant developments is the emphasis on free trade agreements (FTAs), which aim to reduce barriers to trade between countries. These agreements not only promote economic cooperation but also foster diplomatic relations. Additionally, the new trade laws prioritize fair competition, ensuring that all parties adhere to established standards and practices, which is essential for maintaining a level playing field in the global market.",
-        "p2": "Moreover, recent discussions have highlighted the importance of incorporating sustainability into trade agreements. The new regulations encourage countries to consider environmental impacts when negotiating trade deals, promoting responsible trade practices that benefit both the economy and the planet. This includes provisions for sustainable sourcing and protecting labor rights, ensuring that trade growth does not come at the expense of social and environmental standards. Furthermore, the laws emphasize the resolution of trade disputes, providing clear mechanisms for addressing conflicts that may arise between trading partners. This is crucial for maintaining trust and cooperation in international relations. Overall, the developments in international trade law reflect a comprehensive approach to promoting fair, sustainable, and equitable trade practices on a global scale."
-      },
-      {
-        "id": 16,
-        "title": "Healthcare Law: New Regulations for Patient Rights",
-        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS8npkYkFipA4SkHwqGwYTZcb1g1GnxAf-qw&s",
-        "author": "Sonia Khanna & Arjun Rao",
-        "date": "12 Oct 2024 02:00 PM",
-        "p1": "The recent changes in healthcare law are designed to enhance patient rights and ensure high standards of care in medical facilities. With an increasing focus on patient-centered care, the new regulations aim to protect individuals’ rights concerning their medical treatment, privacy, and access to information. One of the central aspects of the reforms is the establishment of clearer guidelines for informed consent, ensuring that patients fully understand the risks and benefits of treatments before making decisions. This transparency is crucial in fostering trust between healthcare providers and patients, empowering individuals to take an active role in their health care decisions. Additionally, the regulations introduce strict penalties for violations of patient privacy, reflecting a commitment to safeguarding sensitive medical information in an increasingly digital age.",
-        "p2": "Furthermore, the reforms emphasize the importance of patient advocacy, encouraging the establishment of ombudspersons in healthcare facilities to address grievances and ensure that patients’ voices are heard. These advocates play a critical role in mediating conflicts between patients and providers, promoting resolution and accountability. Moreover, the new regulations also prioritize access to healthcare, particularly for marginalized communities, ensuring that all individuals have equitable access to necessary medical services. This includes provisions for non-discrimination based on race, gender, or socioeconomic status, reflecting a commitment to health equity. Overall, the changes in healthcare law represent a significant step towards a more just and equitable healthcare system that respects and protects the rights of all patients."
+        "name": "Adv. Sneha Yadav",
+        "ratings": [
+          {
+            "s1": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s2": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s3": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s4": "https://drive.google.com/file/d/1CbuKTPMIoAg4Qtujz-YEC-tERJ43zmw7/view?usp=sharing",
+              "s5": "https://drive.google.com/file/d/19IqeEgQEw6QiUor0sPndV6TgV5i_pbGt/view?usp=sharing"
+          }
+        ],
+        "imgSrc": "https://drive.google.com/file/d/1jDt_Wtwk9yK-4Raxdx-HrrN810AppZkX/view?usp=sharing",
+        "exp": "3+ Years of Experience",
+        "tags": [
+          {
+            "t1": "Family Law",
+            "t2": "Consumer Disputes",
+            "t3": "Child Custody",
+            "t4": "Mediation",
+            "t5": "Civil Rights"
+          }
+        ],
+        "location": [
+          {
+            "chamber": "Chamber 8",
+            "court": "Karkardooma Court",
+            "area": "Karkardooma",
+            "district": "Vishwash Nagar",
+            "city": "Delhi"
+          }
+        ],
+        "price": 500
       }
     ]
-  }
-  
+    
+  ]
+}
