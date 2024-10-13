@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Signs",
+      "src": "https://i.etsystatic.com/23824347/r/il/67d7f1/5200553974/il_300x300.5200553974_4yjs.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Digital prints",
+      "src": "https://i.etsystatic.com/23086333/c/2000/2000/0/0/il/0d9318/5306882900/il_300x300.5306882900_9e2x.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Wall decor",
+      "src": "https://i.etsystatic.com/25168585/c/1800/1800/298/0/il/e0da11/5460954945/il_300x300.5460954945_9tu4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Digital prints",
+      "src": "https://i.etsystatic.com/22477312/r/il/5ac7d9/4318918442/il_300x300.4318918442_ms3e.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pendant neclaces",
+      "src": "https://i.etsystatic.com/34379934/c/1652/1652/77/348/il/c266fb/6084738158/il_300x300.6084738158_e1pd.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Wall decor",
+      "src": "https://i.etsystatic.com/24426965/c/2261/2261/0/270/il/64732a/4144763037/il_300x300.4144763037_cm8c.jpg"
+    }
+  ]
+}
