@@ -113,5 +113,28 @@
       "discount": 50,
       "price": 1137
     }
+  ],
+
+  "extraordinary-items": [
+    {
+      "src": "https://i.etsystatic.com/5492298/r/il/74ad66/1241162926/il_300x300.1241162926_4l17.jpg",
+      "detail": "Hurry! Halloween up to 50% off"
+    },
+    {
+      "src": "https://i.etsystatic.com/8379467/r/il/ab0790/5238404415/il_300x300.5238404415_r7rk.jpg",
+      "detail": "Elevated Everyday Jewellery up to 15% off"
+    },
+    {
+      "src": "https://i.etsystatic.com/6269772/r/il/0a2412/3789154008/il_300x300.3789154008_cmyz.jpg",
+      "detail": "Charcuterie boards up to 20% off"
+    },
+    {
+      "src": "https://i.etsystatic.com/15528466/c/760/760/295/0/il/0cdfd7/5861777910/il_300x300.5861777910_ig52.jpg",
+      "detail": "Trending: Burgundy finds up to 20% off"
+    },
+    {
+      "src": "https://i.etsystatic.com/24403910/r/il/449f31/5353536298/il_300x300.5353536298_e9nw.jpg",
+      "detail": "Wreaths up to 30% off"
+    }
   ]
 }
